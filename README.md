@@ -8,3 +8,17 @@ The public repository to view
 Контакты:  
 mail: goraleksey.jr@gmail.com  
 telegram: @Chronos196
+
+## Файлы
+#### Основные файлы  
+>**config.py** - настройки бота  
+**bot.py** - создание объекта бота  
+**handlers.py** - основной файл, обработка сообщений
+
+#### Вспомогательные файлы
+>**messages.py** - сообщения  
+**keyboards.py** - клавиатуры  
+**commands.py** - команды  
+**images.py** - изображения  
+**dictionary.py** - словарь  
+**articles.py** - статьи
