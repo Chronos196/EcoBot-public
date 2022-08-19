@@ -4,6 +4,7 @@ The public repository to view
 
 ## Телеграм бот EcoBot
 ***EcoBot*** - компактный мини-справочник по экологии
+@ecoedubot
 
 Контакты:  
 mail: goraleksey.jr@gmail.com  
